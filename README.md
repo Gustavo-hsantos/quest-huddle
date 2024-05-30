@@ -10,7 +10,7 @@ O projeto foi um desafio do curso Dev Quest extraído do Frontend Mentor e com i
 
 ## habilidades requisitadas
 
-O projeto foi um desafio do curso Dev Quest extraído do Frontend Mentor e com isso testar nossas habilidades até o momento dentro do curso.
+Foi pedido que a quest seja realizada com conceitos de FlexBox para eu possa me adequar com a maior parte dos projetos feitos em mundo real de trabalho.
 
 ## Desafios encontrados
 
